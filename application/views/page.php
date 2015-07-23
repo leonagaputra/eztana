@@ -140,6 +140,9 @@
                             <a href="<?php echo $base_url ?>index.php/listrik/entry">Bayar Listrik</a>
                         </li>
                         <li>
+                            <a href="<?php echo $base_url ?>index.php/listrik/transaksi">Transaksi Listrik</a>
+                        </li>
+                        <li>
                             <a href="charts.html">Cek Paket</a>
                         </li>                        
                     </ul>

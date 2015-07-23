@@ -19,8 +19,8 @@
                 <!-- /.row -->
 
                 <div class="jumbotron">
-                    <h1>Hi, Semua!</h1>
-                    <p>Selamat datang di Eztana.  Eztana merupakan layanan yang mempermudah hidup aktivitas keseharian Anda di apartemen.  Untuk saat ini, Eztana memiliki layanan pembayaran listrik dan pengecekan status paket yang ditujukan kepada Anda.</p>
+                    <h1>Welcome!</h1>
+                    <p>Selamat datang di Eztana.  Eztana merupakan layanan yang mempermudah aktivitas keseharian Anda di apartemen.  Untuk saat ini, Eztana memiliki layanan pembayaran listrik dan pengecekan status paket yang ditujukan ke unit Anda.</p>
                     <p><a href="#" class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a>
                     </p>
                 </div>

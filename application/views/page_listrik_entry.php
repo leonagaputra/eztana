@@ -42,7 +42,7 @@
                                 </div>
                             </div>                            
 
-                            <button type="submit" class="btn btn-default" >Lanjut</button>
+                            <button type="submit" class="btn btn-default" >Pembayaran</button>
                             
                         </form>
 
